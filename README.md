@@ -1,6 +1,6 @@
 # Nop Commerce
 
-![Nop Commerce Logo](https://www.bing.com/images/search?view=detailV2&ccid=IMUpcjV%2b&id=8A3C4A593434DB4BD6E34BB10A6595B4B4DD2601&thid=OIP.IMUpcjV-_YgY4merCYp4cAHaEA&mediaurl=https%3a%2f%2fwww.nopaccelerate.com%2fwp-content%2fuploads%2f2018%2f10%2fAll-About-NopCommerce.png)
+![Nop Commerce Logo](https://www.google.com/imgres?q=NOPcommerce&imgurl=https%3A%2F%2Fwww.nopcommerce.com%2Fimages%2Fdemo%2Fstore-mobile-bg.png)
 
 ## Table of Contents
 
