@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-02T14:41:57 EEST" name="Nop-commerce TestCases" finished-at="2024-06-02T14:44:09 EEST" duration-ms="132394">
+    <groups>
+    </groups>
+    <test started-at="2024-06-02T14:41:57 EEST" name="Check register for new user with valid data" finished-at="2024-06-02T14:42:44 EEST" duration-ms="46778">
+      <class name="TestCases.TC02_Registration">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC02_Registration@2fd6b6c7]" started-at="2024-06-02T14:41:57 EEST" name="setupDriver" finished-at="2024-06-02T14:42:36 EEST" duration-ms="39490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="RegisterNewUserWithValidData_P()[pri:1, instance:TestCases.TC02_Registration@2fd6b6c7]" started-at="2024-06-02T14:42:36 EEST" name="RegisterNewUserWithValidData_P" description="Register New User With Valid Data" finished-at="2024-06-02T14:42:43 EEST" duration-ms="6692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewUserWithValidData_P -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC02_Registration@2fd6b6c7]" started-at="2024-06-02T14:42:43 EEST" name="tearDown" finished-at="2024-06-02T14:42:44 EEST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC02_Registration -->
+    </test> <!-- Check register for new user with valid data -->
+    <test started-at="2024-06-02T14:42:44 EEST" name="Check login with valid data" finished-at="2024-06-02T14:43:04 EEST" duration-ms="20082">
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@1ffe63b9]" started-at="2024-06-02T14:42:44 EEST" name="setupDriver" finished-at="2024-06-02T14:43:03 EEST" duration-ms="18980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="checkLoginWithValidData_P()[pri:1, instance:TestCases.TC01_Login@1ffe63b9]" started-at="2024-06-02T14:43:03 EEST" name="checkLoginWithValidData_P" description="check login with valid data new design" finished-at="2024-06-02T14:43:03 EEST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginWithValidData_P -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@1ffe63b9]" started-at="2024-06-02T14:43:03 EEST" name="tearDown" finished-at="2024-06-02T14:43:04 EEST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check login with valid data -->
+    <test started-at="2024-06-02T14:43:04 EEST" name="Check Forget Password function" finished-at="2024-06-02T14:43:13 EEST" duration-ms="8956">
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@7c469c48]" started-at="2024-06-02T14:43:04 EEST" name="setupDriver" finished-at="2024-06-02T14:43:12 EEST" duration-ms="7847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="checkLoginWithValidData_P()[pri:1, instance:TestCases.TC01_Login@7c469c48]" started-at="2024-06-02T14:43:12 EEST" name="checkLoginWithValidData_P" description="check login with valid data new design" finished-at="2024-06-02T14:43:12 EEST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginWithValidData_P -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@7c469c48]" started-at="2024-06-02T14:43:12 EEST" name="tearDown" finished-at="2024-06-02T14:43:13 EEST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check Forget Password function -->
+    <test started-at="2024-06-02T14:43:13 EEST" name="Check hover random category" finished-at="2024-06-02T14:43:23 EEST" duration-ms="10121">
+      <class name="TestCases.TC04_Category">
+        <test-method signature="chooseRandomCategory_P()[pri:1, instance:TestCases.TC04_Category@6d2a209c]" started-at="2024-06-02T14:43:21 EEST" name="chooseRandomCategory_P" description="Choose Random Category" finished-at="2024-06-02T14:43:22 EEST" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseRandomCategory_P -->
+      </class> <!-- TestCases.TC04_Category -->
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@5e316c74]" started-at="2024-06-02T14:43:13 EEST" name="setupDriver" finished-at="2024-06-02T14:43:21 EEST" duration-ms="8530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@5e316c74]" started-at="2024-06-02T14:43:22 EEST" name="tearDown" finished-at="2024-06-02T14:43:23 EEST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check hover random category -->
+    <test started-at="2024-06-02T14:43:23 EEST" name="Change currency" finished-at="2024-06-02T14:43:29 EEST" duration-ms="5785">
+      <class name="TestCases.TC05_ChangeCurrency">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC05_ChangeCurrency@56528192]" started-at="2024-06-02T14:43:23 EEST" name="setupDriver" finished-at="2024-06-02T14:43:27 EEST" duration-ms="4564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="selectCurrency_P()[pri:1, instance:TestCases.TC05_ChangeCurrency@56528192]" started-at="2024-06-02T14:43:27 EEST" name="selectCurrency_P" description="Select Currency" finished-at="2024-06-02T14:43:28 EEST" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCurrency_P -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC05_ChangeCurrency@56528192]" started-at="2024-06-02T14:43:28 EEST" name="tearDown" finished-at="2024-06-02T14:43:29 EEST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC05_ChangeCurrency -->
+    </test> <!-- Change currency -->
+    <test started-at="2024-06-02T14:43:29 EEST" name="Search with keyword " finished-at="2024-06-02T14:43:39 EEST" duration-ms="10078">
+      <class name="TestCases.TC03_SearchFunction">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC03_SearchFunction@1f3f4916]" started-at="2024-06-02T14:43:29 EEST" name="setupDriver" finished-at="2024-06-02T14:43:36 EEST" duration-ms="7390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="searchFunction_P()[pri:1, instance:TestCases.TC03_SearchFunction@1f3f4916]" started-at="2024-06-02T14:43:36 EEST" name="searchFunction_P" description="check search function" finished-at="2024-06-02T14:43:38 EEST" duration-ms="2187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFunction_P -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC03_SearchFunction@1f3f4916]" started-at="2024-06-02T14:43:38 EEST" name="tearDown" finished-at="2024-06-02T14:43:39 EEST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC03_SearchFunction -->
+    </test> <!-- Search with keyword  -->
+    <test started-at="2024-06-02T14:43:39 EEST" name=" Check Forget Password Function" finished-at="2024-06-02T14:43:44 EEST" duration-ms="5711">
+      <class name="TestCases.TC06_Reset_Password">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC06_Reset_Password@20d28811]" started-at="2024-06-02T14:43:39 EEST" name="setupDriver" finished-at="2024-06-02T14:43:43 EEST" duration-ms="4598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method signature="checkPasswordFunction_P()[pri:1, instance:TestCases.TC06_Reset_Password@20d28811]" started-at="2024-06-02T14:43:43 EEST" name="checkPasswordFunction_P" description=" Check forget password function " finished-at="2024-06-02T14:43:44 EEST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPasswordFunction_P -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC06_Reset_Password@20d28811]" started-at="2024-06-02T14:43:44 EEST" name="tearDown" finished-at="2024-06-02T14:43:44 EEST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC06_Reset_Password -->
+    </test> <!--  Check Forget Password Function -->
+    <test started-at="2024-06-02T14:43:45 EEST" name="Check hover specific category" finished-at="2024-06-02T14:43:52 EEST" duration-ms="7318">
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@7adda9cc]" started-at="2024-06-02T14:43:45 EEST" name="setupDriver" finished-at="2024-06-02T14:43:51 EEST" duration-ms="6889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@7adda9cc]" started-at="2024-06-02T14:43:51 EEST" name="tearDown" finished-at="2024-06-02T14:43:52 EEST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check hover specific category -->
+    <test started-at="2024-06-02T14:43:52 EEST" name="Check Add different products to the card" finished-at="2024-06-02T14:43:57 EEST" duration-ms="4719">
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@4ddced80]" started-at="2024-06-02T14:43:52 EEST" name="setupDriver" finished-at="2024-06-02T14:43:56 EEST" duration-ms="4250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@4ddced80]" started-at="2024-06-02T14:43:56 EEST" name="tearDown" finished-at="2024-06-02T14:43:57 EEST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check Add different products to the card -->
+    <test started-at="2024-06-02T14:43:57 EEST" name="Check Add different products to WishList" finished-at="2024-06-02T14:44:03 EEST" duration-ms="6271">
+      <class name="TestCases.TC09_WishList">
+        <test-method signature="AddDifferentProductsToWishlist_P()[pri:1, instance:TestCases.TC09_WishList@79b06cab]" started-at="2024-06-02T14:44:01 EEST" name="AddDifferentProductsToWishlist_P" description="Add Different products to Wish list" finished-at="2024-06-02T14:44:02 EEST" duration-ms="1496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDifferentProductsToWishlist_P -->
+      </class> <!-- TestCases.TC09_WishList -->
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@4690b489]" started-at="2024-06-02T14:43:57 EEST" name="setupDriver" finished-at="2024-06-02T14:44:01 EEST" duration-ms="4314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@4690b489]" started-at="2024-06-02T14:44:02 EEST" name="tearDown" finished-at="2024-06-02T14:44:03 EEST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check Add different products to WishList -->
+    <test started-at="2024-06-02T14:44:03 EEST" name="Check Add different products to CompareList" finished-at="2024-06-02T14:44:09 EEST" duration-ms="6251">
+      <class name="TestCases.TC10_CompareList">
+        <test-method signature="AddDifferentProductsToCompareList_P()[pri:1, instance:TestCases.TC10_CompareList@1184ab05]" started-at="2024-06-02T14:44:07 EEST" name="AddDifferentProductsToCompareList_P" description="Add Different products to Compare list" finished-at="2024-06-02T14:44:09 EEST" duration-ms="1448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddDifferentProductsToCompareList_P -->
+      </class> <!-- TestCases.TC10_CompareList -->
+      <class name="TestCases.TC01_Login">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:TestCases.TC01_Login@47d90b9e]" started-at="2024-06-02T14:44:03 EEST" name="setupDriver" finished-at="2024-06-02T14:44:07 EEST" duration-ms="4344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TC01_Login@47d90b9e]" started-at="2024-06-02T14:44:09 EEST" name="tearDown" finished-at="2024-06-02T14:44:09 EEST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TC01_Login -->
+    </test> <!-- Check Add different products to CompareList -->
+  </suite> <!-- Nop-commerce TestCases -->
+</testng-results>
