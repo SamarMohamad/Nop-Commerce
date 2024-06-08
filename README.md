@@ -1,6 +1,6 @@
 # Nop Commerce
 
-![Nop Commerce Logo](https://www.google.com/imgres?q=NOPcommerce&imgurl=https%3A%2F%2Fwww.nopcommerce.com%2Fimages%2Fdemo%2Fstore-mobile-bg.png)
+![Nop Commerce Logo](https://demo.nopcommerce.com/Themes/DefaultClean/Content/images/logo.png)
 
 ## Table of Contents
 
